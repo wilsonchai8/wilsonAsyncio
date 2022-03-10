@@ -6,3 +6,4 @@
 ● 第一个函数`run_until_complete`：[详解](https://www.cnblogs.com/MrVolleyball/p/15709855.html)  
 ● 第二个函数`run`：[详解](https://www.cnblogs.com/MrVolleyball/p/15739907.html)  
 ● 第三个函数`gather`：[详解](https://www.cnblogs.com/MrVolleyball/p/15812407.html)  
+● 第四个函数`sleep`：[详解](https://www.cnblogs.com/MrVolleyball/p/15988557.html)  
